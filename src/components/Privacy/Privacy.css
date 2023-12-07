@@ -12,6 +12,7 @@
 
 .privacy-header {
   font-size: 3rem;
+  word-break: break-all;
 }
 
 .last-update, .privacy-courtesy {
