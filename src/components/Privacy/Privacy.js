@@ -6,7 +6,7 @@ export default function Privacy() {
   return (
     <>
       <div className="privacy-container">
-        <div className="privacy-header">Politique de confidentialité</div>
+        <div className="privacy-header">Politique de confident&shy;ialité</div>
         <p className="last-update">Dernière mise à jour : 5 décembre 2023</p>
         <p className="privacy-item">
           Cette politique de confidentialité décrit nos politiques et procédures
