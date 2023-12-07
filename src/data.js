@@ -29,8 +29,8 @@ const ProjectsData = [
       <Icons name="React" key="ReactIco"/>,
       <Icons name="CSS" key="CssIco"/>
     ],
-    github: "",
-    source: "",
+    github: "https://github.com/MartinelliSam/my-portfolio",
+    source: "https://www.samantha-martinelli.dev/",
     description:
       "Portfolio de présentation de mes projets (Single Page Application). Page où vous vous trouvez actuellement"
   },
