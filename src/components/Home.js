@@ -47,7 +47,7 @@ const Home = () => {
       <ProjectsList />
       <Skills />
       <Contact />
-      {windowWidth <= 650 && <ReturnToTop />}
+      {windowWidth < 650 && <ReturnToTop />}
       <Footer />
       <ScrollButton />
     </div>
