@@ -42,7 +42,7 @@ export default function Navbar() {
   return (
     <nav>
       <div className="burger" onClick={toggleBurger}>
-        <Burger burgerOpen={burgerOpen}/>
+        <Burger />
       </div>
       <ul id='glass-bar' className={`${burgerOpen ? "navbar-show" : "navbar-hide"}`}>
         <img src={Logo} alt='logo'/>
