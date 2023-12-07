@@ -65,7 +65,7 @@ export default function Contact() {
         </div>
         <div className="contact-links">
           <a
-            href="https://www.linkedin.com/in/samantha-martinelli-b6bb63297/"
+            href="https://www.linkedin.com/in/samantha-martinelli-dev/"
             target="_blank"
             rel="noreferrer"
           >
