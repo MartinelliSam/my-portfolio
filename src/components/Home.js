@@ -1,4 +1,4 @@
-import Navbar from "components/Navbar/Navbar.js";
+import Navigation from "components/Navigation/Navigation.js";
 import Header from "components/Header/Header.js";
 import About from "components/About/About.js";
 import ProjectsList from "components/Projects/ProjectsList.js";
@@ -41,7 +41,7 @@ const Home = () => {
         init={particlesInit}
         options={particlesConfig}
       />
-      <Navbar />
+      <Navigation />
       <Header />
       <About />
       <ProjectsList />
