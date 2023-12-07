@@ -28,7 +28,7 @@ Tous les projets illustrés dans ce portfolio sont également disponibles sur mo
 N'hésitez pas à me contacter pour toute opportunité de collaboration ou pour discuter de projets ! 
 
 - Email : [samantha.martinelli@hotmail.fr]
-- LinkedIn : [https://www.linkedin.com/in/samantha-martinelli-b6bb63297/]
+- LinkedIn : [https://www.linkedin.com/in/samantha-martinelli-dev/]
 
 
 ## Remerciements
