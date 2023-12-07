@@ -1,70 +1,36 @@
-# Getting Started with Create React App
+# Portfolio de Samantha Martinelli
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## À propos
 
-## Available Scripts
+Bonjour ! Je m'appelle Samantha, développeuse web passionnée, fraîchement diplômée suite à une reconversion professionnelle réussie. Ce portfolio représente une collection de mes projets, illustrant mes compétences et mon évolution dans le domaine du développement web. C'est également mon premier projet réalisé après l'obtention de mon diplôme 😊
 
-In the project directory, you can run:
+## Présentation
 
-### `npm start`
+Ce portfolio a été créé pour présenter mes projets, compétences et expériences en tant que développeuse web. J'ai suivi une formation à distance tout en travaillant à plein temps, ce qui a été un vrai challenge,  mais ma passion pour le code a été plus forte que tous les obstacles que j'ai trouvé sur ma route.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Compétences
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Langages et technologies maîtrisés
 
-### `npm test`
+- HTML
+- CSS / Sass / Bootstrap
+- JavaScript / React 
+- PHP / Symfony 
+- MariaDB / MySQL 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## Projets
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Tous les projets illustrés dans ce portfolio sont également disponibles sur mon GitHub. Feel free to browse 👀
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Contact
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+N'hésitez pas à me contacter pour toute opportunité de collaboration ou pour discuter de projets ! 
 
-### `npm run eject`
+- Email : [samantha.martinelli@hotmail.fr]
+- LinkedIn : [https://www.linkedin.com/in/samantha-martinelli-b6bb63297/]
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Remerciements
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Un grand merci à toutes les personnes qui m'ont soutenue dans cette transition de carrière et qui ont contribué à mon parcours de développement web.

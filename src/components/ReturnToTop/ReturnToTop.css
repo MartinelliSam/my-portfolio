@@ -1,0 +1,23 @@
+.return-container {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 25px;
+}
+
+.return-to-top {
+  color: var(--text-color);
+  border: 3px solid var(--primary-color);
+  padding: 10px 20px;
+  margin: 10px 10px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 5px;
+  font-family: var(--subtitle-font);
+  position: relative;
+  background: none;
+}
+
+.return-to-top:active {
+  background: var(--light-background-color);
+  color: var(--primary-color)
+}

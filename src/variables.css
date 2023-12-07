@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind+Madurai&family=Lora:ital@1&family=Montserrat:wght@700&display=swap');
+
+:root {
+  --text-color: #FFEECF;
+  --background-color: #49306b;
+  --light-background-color: #9A6AAD;
+  --primary-color: #FFA92F;
+  --secondary-color: #FFE018;
+  --title-font: 'Lora', serif;
+  --subtitle-font: 'Montserrat', sans-serif;
+  --text-font: 'Hind Madurai', sans-serif;
+}

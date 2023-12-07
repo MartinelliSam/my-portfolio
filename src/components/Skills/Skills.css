@@ -1,0 +1,39 @@
+#skills {
+  padding-top: 35px;
+}
+
+#skills-container {
+  display: grid;
+  grid-template-columns: 1fr;
+  color: var(--text-color);
+  text-align: center;
+}
+
+@media screen and (min-width: 1100px) {
+  #skills-container {
+    grid-template-columns: repeat(2, 500px);
+    gap: 100px;
+    justify-content: center;
+    margin: 0 auto;
+    text-align: center;
+  }
+}
+
+#front-skills,
+#back-skills,
+#database-skills,
+#tools-skills {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.skill-icon {
+  margin: 15px;
+  padding: 5px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: var(--text-font);
+}
