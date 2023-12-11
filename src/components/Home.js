@@ -36,11 +36,11 @@ const Home = () => {
 
   return (
     <div>
-      <Particles
+      {windowWidth > 650 && <Particles
         id="tsparticles"
         init={particlesInit}
         options={particlesConfig}
-      />
+      />}
       <Navigation />
       <Header />
       <About />
