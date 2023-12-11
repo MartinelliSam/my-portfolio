@@ -3,8 +3,9 @@
   bottom: 4%;
   right: 2%;
   z-index: 1000;
+  visibility: hidden;
   opacity: 0;
-  transition: opacity 0.5s ease; 
+  transition: opacity 1s ease; 
   background: none;
   border: none;
   cursor: pointer;
@@ -12,6 +13,7 @@
 
 @media screen and (min-width: 650px) {
 #scroll-button.scroll-show {
+  visibility: visible;
   opacity: 1;
 }
 }
