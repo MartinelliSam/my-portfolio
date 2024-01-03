@@ -1,0 +1,23 @@
+@keyframes show-img {
+  from {
+    margin-top: -100px;
+    filter: opacity(0) blur(5px);
+  }
+
+  to {
+    margin-top: 0;
+    filter: opacity(1) blur(0);
+  }
+}
+
+.header-img {
+  width: 100%;
+  position: relative;
+}
+
+@media screen and (min-width: 800px) {
+  .header-img {
+    animation-name: show-img;
+    animation-duration: 2s;
+  }
+}

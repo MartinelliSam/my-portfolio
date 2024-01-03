@@ -1,0 +1,72 @@
+.privacy-container {
+  padding: 10px 50px;
+}
+
+.privacy-header, .privacy-title, .privacy-mid-title, .privacy-subtitle {
+  color: var(--primary-color);
+}
+
+.privacy-header, .privacy-title {
+  font-family: var(--title-font);
+}
+
+.privacy-header {
+  font-size: 3rem;
+  hyphens: manual;
+}
+
+.last-update, .privacy-courtesy {
+  font-style: italic;
+  font-size: 0.9rem;
+  color: var(--text-color);
+}
+
+.privacy-item {
+  font-size: 1rem;
+}
+
+.privacy-title {
+  font-size: 2rem;
+  padding: 15px 0;
+}
+
+.privacy-mid-title, .privacy-subtitle {
+  font-family: var(--subtitle-font);
+  text-decoration: underline;
+}
+
+.privacy-mid-title {
+  font-size: 1.5rem;
+  padding: 15px 0;
+}
+
+.privacy-list {
+  color: var(--text-color);
+  font-family: var(--text-font);
+}
+
+.return:link,
+.return:visited,
+.return:active,
+.return {
+  text-decoration :none;
+  color: var(--text-color);
+  display:inline-block;
+  text-align: center;
+  background-color: transparent;
+  border: 3px solid var(--primary-color);
+  padding: 10px 20px;
+  margin: 10px 0;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 5px;
+  font-family: var(--subtitle-font);
+  color: var(--text-color);
+}
+
+.return:hover, .return:active {
+  background-color: var(--primary-color);
+  color: var(--light-background-color);
+  transition: all 0.8s ease;
+}
+

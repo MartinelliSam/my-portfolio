@@ -1,0 +1,92 @@
+#projects {
+  color: var(--text-color);
+  padding-top: 35px;
+}
+
+#project-cards {
+  display: grid;
+  grid-template-columns: 0.75fr;
+  justify-content: center;
+}
+
+@media screen and (min-width: 1100px){
+  #project-cards {
+    grid-template-columns: repeat(2, 500px);
+    gap: 80px;
+  }
+
+  .project-description {
+    height: 150px;
+  }
+
+}
+
+@media screen and (max-width: 1100px){
+  .project-card {
+    margin-top: 25px;
+  }
+}
+
+.project-card {
+  background: rgba(255, 255, 255, 0.12);
+  border-radius: 25px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(8.3px);
+  border: 1px solid rgba(227, 176, 252, 0.12);
+  z-index: -1;
+}
+
+.project-links {
+  display: flex;
+  justify-content: center;
+}
+
+.project-links a {
+  color: var(--text-color);
+  border: 3px solid var(--primary-color);
+  padding: 10px 20px;
+  margin: 10px 10px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 5px;
+  font-family: var(--subtitle-font);
+}
+
+.project-links a:hover, .project-links a:active {
+  background-color: var(--primary-color);
+  color: var(--light-background-color);
+  transition: all 0.8s ease;
+}
+
+.project-image {
+  border-radius: 25px 25px 0 0;
+  width: 100%;
+  object-fit: cover;
+}
+
+.project-stack {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.project-github, .project-source {
+  padding: 25px;
+}
+
+.project-description {
+  display: flex;
+  padding: 0 25px;
+  align-items: center;
+  text-align: center;
+}
+
+@media screen and (min-width: 650px){
+  .project-description {
+    text-align: justify;
+  }
+}
+
+.project-name {
+  text-align: center;
+}
