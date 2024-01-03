@@ -78,6 +78,13 @@
   display: flex;
   padding: 0 25px;
   align-items: center;
+  text-align: center;
+}
+
+@media screen and (min-width: 650px){
+  .project-description {
+    text-align: justify;
+  }
 }
 
 .project-name {

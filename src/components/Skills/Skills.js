@@ -1,5 +1,6 @@
 import "./Skills.css";
 import Icons from "components/Icons.js";
+import HeartIco from 'assets/heart-svgrepo-com.svg';
 
 export default function Skills() {
   return (
@@ -17,11 +18,13 @@ export default function Skills() {
               <Icons name="CSS" />
               CSS3
             </div>
-            <div className="skill-icon">
+            <div className="skill-icon js-ico">
+            <img src={HeartIco} alt="heart-ico" className="heart-ico"/>
               <Icons name="JS" />
               JavaScript
             </div>
-            <div className="skill-icon">
+            <div className="skill-icon react-ico">
+              <img src={HeartIco} alt="heart-ico" className="heart-ico"/>
               <Icons name="React" />
               React.js
             </div>

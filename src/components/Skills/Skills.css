@@ -37,3 +37,14 @@
   align-items: center;
   font-family: var(--text-font);
 }
+
+.react-ico, .js-ico {
+  position: relative;
+}
+
+.heart-ico {
+  position: absolute;
+  top: -2px;
+  left: 5px;
+  opacity: 0.9;
+}

@@ -33,7 +33,8 @@ const StyledBurger = styled.div`
   }
 `;
 
-export default function Burger({burgerOpen, toggleBurger}) {
+export default function Burger({ burgerOpen, toggleBurger })  {
+
   return (
     <>
       <StyledBurger burgerOpen={burgerOpen} onClick={toggleBurger}>

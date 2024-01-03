@@ -3,7 +3,7 @@ import { useEffect } from 'react';
 import { HashLink as Link } from 'react-router-hash-link';
 import Logo from 'assets/BlackWhiteMinimalistLogo@syammasfitria.png';
 
-export default function Navbar({ burgerOpen, toggleBurger }) {
+export default function Navbar({ burgerOpen }) {
 
 
   useEffect(() => {
