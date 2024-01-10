@@ -18,12 +18,12 @@ export default function Skills() {
               <Icons name="CSS" />
               CSS3
             </div>
-            <div className="skill-icon js-ico">
+            <div className="skill-icon relative-ico">
             <img src={HeartIco} alt="heart-ico" className="heart-ico"/>
               <Icons name="JS" />
               JavaScript
             </div>
-            <div className="skill-icon react-ico">
+            <div className="skill-icon relative-ico">
               <img src={HeartIco} alt="heart-ico" className="heart-ico"/>
               <Icons name="React" />
               React.js
@@ -41,7 +41,8 @@ export default function Skills() {
               <Icons name="PHP" />
               PHP
             </div>
-            <div className="skill-icon">
+            <div className="skill-icon relative-ico">
+            <img src={HeartIco} alt="heart-ico" className="heart-ico"/>
               <Icons name="Symfony" />
               Symfony
             </div>

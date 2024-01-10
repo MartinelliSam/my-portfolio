@@ -38,7 +38,7 @@
   font-family: var(--text-font);
 }
 
-.react-ico, .js-ico {
+.relative-ico {
   position: relative;
 }
 
