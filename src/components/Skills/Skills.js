@@ -18,8 +18,7 @@ export default function Skills() {
               <Icons name="CSS" />
               CSS3
             </div>
-            <div className="skill-icon relative-ico">
-            <img src={HeartIco} alt="heart-ico" className="heart-ico"/>
+            <div className="skill-icon">
               <Icons name="JS" />
               JavaScript
             </div>
@@ -42,7 +41,7 @@ export default function Skills() {
               PHP
             </div>
             <div className="skill-icon relative-ico">
-            <img src={HeartIco} alt="heart-ico" className="heart-ico"/>
+              <img src={HeartIco} alt="heart-ico" className="heart-ico"/>
               <Icons name="Symfony" />
               Symfony
             </div>
