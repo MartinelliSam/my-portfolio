@@ -21,8 +21,8 @@ export default function About() {
           développeuse, en parallèle de mon emploi.
         </p>
         <p>
-          Diplômée en tant que Développeur Web/Web Mobile (Bac +2), je prépare
-          cette année le titre RNCP de niveau bac +3/+4 de développeur
+          Diplômée en tant que Développeuse Web/Web Mobile (Bac +2), je prépare
+          cette année le titre RNCP de niveau bac +3/+4 de Développeuse
           d'applications, et je suis à la recherche d'un contrat de
           professionnalisation en alternance en tant que développeuse
           full-stack.
