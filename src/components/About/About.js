@@ -18,7 +18,7 @@ export default function About() {
         <p>
           La découverte du code et l'univers du développement ont fait naître
           une telle passion, que j'ai entrepris de me reconvertir en tant que
-          développeuse fullstack, en parallèle de mon emploi.
+          développeuse, en parallèle de mon emploi.
         </p>
         <p>
           Diplômée d'un Titre Professionnel de Développeur Web/Web Mobile (Bac
