@@ -19,7 +19,7 @@ const ProjectsData = [
     github: "https://github.com/MartinelliSam/Projet-QuaiAntique",
     source: "https://restaurant-lequaiantique.herokuapp.com/",
     description:
-      "Site du restaurant le Quai Antique, développé sous Symfony. Module de réservation et panneau d'administration. La base de données a été mise hors ligne",
+      "Site du restaurant le Quai Antique, développé sous Symfony. Module de réservation et panneau d'administration. Le site n'est plus en ligne.",
   },
   {
     id: "portfolio",
@@ -32,7 +32,7 @@ const ProjectsData = [
     github: "https://github.com/MartinelliSam/my-portfolio",
     source: "https://www.samantha-martinelli.dev/",
     description:
-      "Portfolio de présentation de mes projets. On s'y trouve actuellement 🤓. Je compte le faire évoluer, notamment en planifiant une refonte en incluant TypeScript",
+      "Portfolio de présentation de mes projets. On s'y trouve actuellement 🤓. Je compte le faire évoluer, notamment en planifiant une refonte en incluant TypeScript.",
   },
   {
     id: "spy-agency",
@@ -47,7 +47,7 @@ const ProjectsData = [
     github: "https://github.com/MartinelliSam/Spy_agency",
     source: "https://services-secrets-d79da3f75178.herokuapp.com/",
     description:
-      "Site de gestion d'une agence d'espion avec interface back-office, à l'aide de PHP. La base de données a été mise hors ligne",
+      "Site de gestion d'une agence d'espion avec interface back-office, à l'aide de PHP. Le site n'est plus en ligne.",
   },
   {
     id: "dice-game",
@@ -61,7 +61,7 @@ const ProjectsData = [
     github: "https://github.com/MartinelliSam/JeuDeDes",
     source: "https://great-dice-game.netlify.app/",
     description:
-      "Création d'un jeu de dés dynamique sur navigateur à l'aide de Javascript",
+      "Création d'un jeu de dés dynamique sur navigateur à l'aide de Javascript.",
   },
 ];
 
