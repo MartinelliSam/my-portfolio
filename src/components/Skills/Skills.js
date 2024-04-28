@@ -1,6 +1,6 @@
 import "./Skills.css";
 import Icons from "components/Icons.js";
-import HeartIco from 'assets/heart-svgrepo-com.svg';
+import HeartIco from "assets/heart-svgrepo-com.svg";
 
 export default function Skills() {
   return (
@@ -23,7 +23,7 @@ export default function Skills() {
               JavaScript
             </div>
             <div className="skill-icon relative-ico">
-              <img src={HeartIco} alt="heart-ico" className="heart-ico"/>
+              <img src={HeartIco} alt="heart-ico" className="heart-ico" />
               <Icons name="React" />
               React.js
             </div>
@@ -41,7 +41,6 @@ export default function Skills() {
               PHP
             </div>
             <div className="skill-icon relative-ico">
-              <img src={HeartIco} alt="heart-ico" className="heart-ico"/>
               <Icons name="Symfony" />
               Symfony
             </div>
