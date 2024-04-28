@@ -19,7 +19,7 @@ const ProjectsData = [
     github: "https://github.com/MartinelliSam/Projet-QuaiAntique",
     source: "https://restaurant-lequaiantique.herokuapp.com/",
     description:
-      "Site du restaurant le Quai Antique, développé sous Symfony. Module de réservation et panneau d'administration",
+      "Site du restaurant le Quai Antique, développé sous Symfony. Module de réservation et panneau d'administration. La base de données a été mise hors ligne",
   },
   {
     id: "portfolio",
@@ -47,7 +47,7 @@ const ProjectsData = [
     github: "https://github.com/MartinelliSam/Spy_agency",
     source: "https://services-secrets-d79da3f75178.herokuapp.com/",
     description:
-      "Site de gestion d'une agence d'espion avec interface back-office, à l'aide de PHP.",
+      "Site de gestion d'une agence d'espion avec interface back-office, à l'aide de PHP. La base de données a été mise hors ligne",
   },
   {
     id: "dice-game",
