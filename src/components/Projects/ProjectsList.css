@@ -9,7 +9,14 @@
   justify-content: center;
 }
 
-@media screen and (min-width: 1100px){
+#spy-agency .project-source,
+#quai-antique .project-source {
+  pointer-events: none;
+  border: 3px solid grey;
+  text-decoration: line-through;
+}
+
+@media screen and (min-width: 1100px) {
   #project-cards {
     grid-template-columns: repeat(2, 500px);
     gap: 80px;
@@ -21,7 +28,7 @@
 
 }
 
-@media screen and (max-width: 1100px){
+@media screen and (max-width: 1100px) {
   .project-card {
     margin-top: 25px;
   }
@@ -52,7 +59,8 @@
   font-family: var(--subtitle-font);
 }
 
-.project-links a:hover, .project-links a:active {
+.project-links a:hover,
+.project-links a:active {
   background-color: var(--primary-color);
   color: var(--light-background-color);
   transition: all 0.8s ease;
@@ -70,7 +78,8 @@
   align-items: center;
 }
 
-.project-github, .project-source {
+.project-github,
+.project-source {
   padding: 25px;
 }
 
@@ -81,7 +90,7 @@
   text-align: center;
 }
 
-@media screen and (min-width: 650px){
+@media screen and (min-width: 650px) {
   .project-description {
     text-align: justify;
   }
